@@ -6,7 +6,7 @@ Prof MSc. Cloves Rocha
 
 # DISCENTES
 - Dyogenes Moraes - 1242394360
-- ...
+- Gabriel Vasconcelos - 1242304549
 - ...
 
 # FONTE DE CÓDIGOS
