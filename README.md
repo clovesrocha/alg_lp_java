@@ -1,2 +1,4 @@
-# alg_lp_java
-Disciplina de Lógica de Programação com JAVA
+# [UNIT] ADS 1MA E02 | F105244 ALG. LOG.
+Disciplina de Algoritmos Lógica de Programação com JAVA.
+
+
