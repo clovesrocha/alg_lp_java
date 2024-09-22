@@ -2,7 +2,7 @@
 Disciplina de Algoritmos Lógica de Programação com JAVA.
 
 # DOCENTE TITULAR
-Prof MSc. Cloves Rocha
+Mentor Prof MSc. Cloves Rocha
 
 # DISCENTES
 - Dyogenes Moraes - 1242394360
