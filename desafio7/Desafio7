@@ -1,0 +1,25 @@
+public class Main {
+    public static void main(String[] args) {
+       
+        int[][] notas = {
+            {54, 35, 47},  
+            {19, 74, 58},  
+            {75, 66, 81}   
+        };
+
+       
+        String[] estudantes = {"Estudante 1", "Estudante 2", "Estudante 3"};
+
+        
+        String[] disciplinas = {"Alg_LP_Java", "UX", "DAD"};
+
+       
+        for (int i = 0; i < notas.length; i++) {
+            System.out.println("Notas de " + estudantes[i] + ":");
+            for (int j = 0; j < notas[i].length; j++) {
+                System.out.println(disciplinas[j] + ": " + notas[i][j]);
+            }
+            System.out.println();
+        }
+    }
+}
